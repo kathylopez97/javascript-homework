@@ -52,10 +52,10 @@ VS Code
 
 ## Links
 
-[The URL of the deployed application](https://kathylopez97.github.io/kathy-lopez-portfolio/)
+[The URL of the deployed application](https://kathylopez97.github.io/javascript-homework/)
 
 
-[The URL of the Github repository](https://github.com/kathylopez97/kathy-lopez-portfolio/)
+[The URL of the Github repository](https://github.com/kathylopez97/javascript-homework)
 
 ## Mock-up
 ![javascript](hw.jpg)
