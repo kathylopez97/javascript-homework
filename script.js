@@ -61,11 +61,11 @@ return password;
   return false;
  }
 
-if (confirm ("Do you want you password to have lowercase letter?")) {
+if (confirm ("Do you want your password to have lowercase letter?")) {
   choiceArr =choiceArr.concat (lowercaseArray);
  }
 
-if (confirm ("Do you want you password to have uppercase letter?")) {
+if (confirm ("Do you want your password to have uppercase letter?")) {
   choiceArr =choiceArr.concat (uppercaseArray); 
  }
 
